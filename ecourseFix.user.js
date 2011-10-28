@@ -16,6 +16,7 @@
 // @match		http://ecourse.elearning.ccu.edu.tw/php/textbook/course_menu.php*
 // @match		http://ecourse.webedu.ccu.edu.tw/php/textbook/course_menu.php*
 // @match		http://ecourse.elearning.ccu.edu.tw/php/login_s.php*
+// @match		http://ecourse.webedu.ccu.edu.tw/php/login_s.php
 // ==/UserScript==
 
 
@@ -35,4 +36,5 @@ else if(document.URL.match('course_menu.php') != null) {
 }
 if(document.URL.match('login_s.php') != null) {
 	document.charset = 'Big5';
+	document.title = '學生系統';
 }

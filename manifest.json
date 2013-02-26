@@ -1,6 +1,7 @@
 {
   "name": "Ecourse Fix",
   "version": "1.0",
+  "manifest_version": 2,
 
   "description": "修正中正大學課程教學系統在Google Chorme上的相容性問題",
   "icons": {

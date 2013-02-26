@@ -8,6 +8,4 @@
 3. 編碼修正
 
 ## Chrome Web Store連結
-
 https://chrome.google.com/webstore/detail/ecourse-fix/ikmpbfojdbnhnglddfmhilocodiecoo
-
